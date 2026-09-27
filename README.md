@@ -1,1 +1,2 @@
-All Pakistan mazdor app -A complete ondemond labour booking platform to hire verified Electricians plumbers carpenters and daily wage workers across 170 cites in Pakistan 
+
+All Pakistan Mazdor App - A complete on-demand labour booking platform to hire verified Electricians, Plumbers, Carpenters and Daily Wage Workers across 170+ cities in Pakistan
